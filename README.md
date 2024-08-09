@@ -7,7 +7,7 @@
 <p><em>CSE Undergrad Student at <a href="https://www.green.edu.bd/">Green University of Bangladesh  </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Engineer at <a href="https://www.shebamart.com.bd/">Shebamart Solutions  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="52"> A little more about me...  
 
 ```javascript
 const msi = {
