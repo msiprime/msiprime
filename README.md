@@ -41,7 +41,7 @@ const msi = {
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=msiprime&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
-what do I do
+
 ---
 
 
