@@ -39,6 +39,4 @@ const msi = {
 
 ---
 
-dummy
-
 
