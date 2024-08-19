@@ -14,7 +14,7 @@ const msi = {
   pronouns: "he" | "him",
   code: ["Dart", "Flutter", "Java", "Supabase", "MongoDB"],
   tools: ["Flutter", "Bloc", "Get_it", "Dio", "GoRouter", "Android Studio Iguana"],
-  architecture: ["Clean Architecture", "Bloc Pattern", "MVVM", "Modular && Micro servide(learning)"],
+  architecture: ["Clean Architecture", "Bloc Pattern", "MVVM", "Modular && Micro service(learning)"],
   techCommunities: {
     jr_mobile_lead: shebamart_solutions, 
     mentor: shahin bashar 
