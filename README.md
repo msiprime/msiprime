@@ -2,7 +2,6 @@
   
 <img align='right' src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/8147bc69f7ec23dc42e282c7869b9e1e.gif" width="200">
 
-
 <p><em>CSE Undergrad Student at <a href="https://www.green.edu.bd/">Green University of Bangladesh  </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Engineer at <a href="https://www.shebamart.com.bd/">Shebamart Solutions  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
