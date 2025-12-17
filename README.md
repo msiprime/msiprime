@@ -13,10 +13,6 @@ const msi = {
   code: ["Dart", "Flutter", "Java", "Supabase", "Firebase"],
   tools: ["Flutter", "Bloc", "Get_it", "Dio", "GoRouter"],
   architecture: ["Clean Architecture", "Bloc Pattern", "Mono repo", "Layered architecture"],
-  techCommunities: {
-    jr_mobile_lead: shebamart_solutions, 
-    mentor: shahin bashar 
-  },
   challenge: "I am learning Flutter and Dart to master reusable/architectured code and become job-ready."
 }
 
